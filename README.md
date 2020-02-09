@@ -5,8 +5,8 @@ With the help of OpenCV  and Deep Learning CNN algorithm doing some action with 
 
 
 # Requirement
-..* Python  
-..* Tensorflow  
-..* OpenCV  
-..* Webcam  
-..* PC/Laptop with GPU computational power >=6  
+* Python  
+* Tensorflow  
+* OpenCV  
+* Webcam  
+* PC/Laptop with GPU computational power >=6  
