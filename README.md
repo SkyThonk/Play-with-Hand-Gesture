@@ -13,6 +13,6 @@ With the help of OpenCV  and Deep Learning CNN algorithm doing some action with 
 
 # Usage
 * Run application.py or application.ipynb(In Jupyter Notebook)  
-* Toggle 'i' , 'k' ,'j' and 'l' to move the Rectangle up, down , left and right  
-* Toggle 'z' and 'q' to increase or decrease the size of Rectangle  
-* Toggle 's' to start prediction and action process  
+* Toggle 'I' , 'K' ,'J' and 'L' to move the Rectangle up, down , left and right  
+* Toggle 'Z' and 'Q' to increase or decrease the size of Rectangle  
+* Toggle 'S' to start prediction and action process  
