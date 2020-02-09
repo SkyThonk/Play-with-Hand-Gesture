@@ -15,4 +15,4 @@ With the help of OpenCV  and Deep Learning CNN algorithm doing some action with 
 * Run application.py or application.ipynb(In Jupyter Notebook)  
 * Toggle 'I' , 'K' ,'J' and 'L' to move the Rectangle up, down , left and right  
 * Toggle 'Z' and 'Q' to increase or decrease the size of Rectangle  
-* Toggle 'S' to start prediction and action process  
+* Toggle 'S' to start or stop prediction and action process  
