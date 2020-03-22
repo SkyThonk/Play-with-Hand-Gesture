@@ -9,7 +9,7 @@ With the help of OpenCV  and Deep Learning CNN algorithm performing some action 
 * Tensorflow  
 * OpenCV  
 * Webcam  
-* PC/Laptop with GPU computational power >=6  
+* PC/Laptop with good GPU  
 
 # Usage
 * Run application.py or application.ipynb(In Jupyter Notebook)  
